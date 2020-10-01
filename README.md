@@ -1,8 +1,9 @@
 # Pyhton_calculator
 Simple Calculator developed using python functions and tkinter library of pyhton, contains basic tikenter elements button,label and entry
 
-1. pyhton_gui file contain pyhton code for designing tkinter calculator
-2. python_cla file contain the code behind calculator
+1. pyhton_gui file contain pyhton code for designing tkinter calculator.
+2. python_cla file contain the code behind calculator.
+3. we can make gui more googlo.king than this using tikinter this is jst an example.
 
 # Requirements
 
